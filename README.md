@@ -4,7 +4,7 @@
 # Cloud-Workshops
 
 
-The Cloud Workshops is a community initiative that provides the community a way to practice the concepts learned related to Cloud.
+The Cloud Workshops is a community initiative that provides the community a way to practice the concepts learned related to Cloud by performing workshops with use cases and build end to end solutions.
 
 ## Topics
 The topics include Cloud Native Development, Artificial Intelligence, Machine Learning, Blockchain, IoT, Data, Security, and more.
