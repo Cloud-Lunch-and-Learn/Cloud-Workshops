@@ -23,3 +23,7 @@ There may be some whiteboard sessions performed during the workshop to help part
 
 
 The final instructions, including the next steps, explain to participants how to continue the learning journey once the workshop is completed.
+
+
+## Workshop Editions
+- 1) [Cloud Native Workshop (June 2022)](./01-Cloud%20Native/)
